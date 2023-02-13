@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [See solution here](https://www.frontendmentor.io/solutions/social-proof-section-design-with-bootstrap-and-custom-css-bUrna3nWd-)
-- Live Site URL: [Go to site](https://your-live-site-url.com)
+- Solution URL: [See solution here](https://www.frontendmentor.io/solutions/social-proof-section-designed-with-bootstrap-flexbox-and-custom-css-Z0yVGZ8jy4)
+- Live Site URL: [Go to site](https://jeffabenoja.github.io/Social-Proof-Section/)
 
 ## My process
 
